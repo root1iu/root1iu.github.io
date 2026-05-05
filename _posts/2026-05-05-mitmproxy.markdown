@@ -2,7 +2,7 @@
 layout: post
 title:  "抓包工具 mitmproxy 介绍&实践"
 date:   2026-05-05 
-categories: Agent
+categories: [Agent]
 ---
 
 在看 `Claude Code` 源码的时候，总想要通过 `Claude Code` 和 `Anthropic` 之间的通信内容来验证源码的内容，所以需要有一种支持 HTTPS 的抓包工具，也就是今天想介绍的：[mitmproxy](https://www.mitmproxy.org/)。

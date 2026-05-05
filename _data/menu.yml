@@ -12,6 +12,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
+  - title: categories
+    url: categories.html
+
   - title: rss
     url: feed.xml
   
